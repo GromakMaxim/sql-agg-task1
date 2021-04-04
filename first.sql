@@ -18,8 +18,6 @@ values ('aaa', 'aa', 25, 12345),
        ('Bjarne', 'Stroustrup', 70, 99999),
        ('Alina', 'Semenova', 19, 000000),
        ('Alexey', 'Surname',99,1425),
-       ('alexey','Surname',99,45);
-
-insert into CUSTOMERS (name, surname, age, phone_number)
-values ('Alexey', 'Surname',99,1425),
+       ('alexey','Surname',99,45),
+       ('Alexey', 'Surname',99,1425),
        ('alexey','Surname',99,45);
